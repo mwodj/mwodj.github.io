@@ -1,0 +1,293 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1355px;
+}
+
+.u-section-1 .u-group-1 {
+  height: auto;
+  background-image: none;
+  min-height: 1317px;
+  width: 1007px;
+  margin: 45px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 23px auto 0;
+}
+
+.u-section-1 .u-line-1 {
+  transform-origin: right center 0px;
+  height: 3px;
+  border-style: solid;
+  margin: 0 30px;
+}
+
+.u-section-1 .u-group-2 {
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  min-height: 51px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  margin: 11px auto 0 28px;
+  padding: 0 17px 0 16px;
+}
+
+.u-section-1 .u-line-2 {
+  transform-origin: right center 0px;
+  margin-top: 11px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 500;
+  margin: 30px auto 0 28px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 500;
+  margin: 66px auto 0 28px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 500;
+  margin: 66px auto 0 28px;
+}
+
+.u-section-1 .u-line-3 {
+  transform-origin: right center 0px;
+  border-style: solid;
+  margin-top: 373px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.25rem;
+  margin: 8px auto 0;
+}
+
+.u-section-1 .u-countdown-1 {
+  margin: 2px auto 0;
+  padding: 0;
+}
+
+.u-section-1 .u-countdown-counter-1 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-label-1 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-1 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-counter-2 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-label-2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-2 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-counter-3 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-label-3 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-3 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-counter-4 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-label-4 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-4 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-counter-5 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-label-5 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-countdown-separator-5 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-counter-6 {
+  font-size: 2.25rem;
+  line-height: 1;
+  font-weight: 700;
+  font-family: "Advent Pro";
+}
+
+.u-section-1 .u-countdown-label-6 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    height: auto;
+  }
+
+  .u-section-1 .u-line-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 59px;
+    height: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 15px;
+    margin-left: 45px;
+  }
+
+  .u-section-1 .u-line-2 {
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    min-height: 1320px;
+    width: 720px;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 64px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1091px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 1001px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 69px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 24px;
+  }
+
+  .u-section-1 .u-line-2 {
+    margin-top: 13px;
+  }
+
+  .u-section-1 .u-line-3 {
+    margin-top: 104px;
+  }
+
+  .u-section-1 .u-text-5 {
+    font-size: 1rem;
+    margin-top: 7px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    min-height: 1078px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-2 {
+    min-height: 74px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 25px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-line-2 {
+    margin-top: 17px;
+  }
+
+  .u-section-1 .u-countdown-1 {
+    margin-top: 0;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+}
